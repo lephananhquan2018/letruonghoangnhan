@@ -1,0 +1,5 @@
+{
+  "name": "Copy of giải bài gốc và tạo đề tương tự - Similar + TikZ_send THT",
+  "description": "Generate similar math problems with TikZ support using Gemini API. Supports Image OCR and LaTeX rendering.",
+  "requestFramePermissions": []
+}
